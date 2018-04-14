@@ -1,1 +1,5 @@
 .DS_Store
+helloworld/.idea/
+helloworld/target/*
+helloworld/helloworld.iml 
+*.iml

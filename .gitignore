@@ -3,3 +3,6 @@ helloworld/.idea/
 helloworld/target/*
 helloworld/helloworld.iml 
 *.iml
+RESTfulExample/.idea/*
+RESTfulExample/target/*
+RESTfulExample/.settings/*
